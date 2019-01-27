@@ -3,6 +3,6 @@
 int main()
 {
 printf("hello world\n");
-printf("New insert")
+printf("New insert");
 return 0;
 }
